@@ -13,3 +13,6 @@ CORE = Core Book
 
 
 (OP) = Opportunities
+
+
+IF YOU WOULD LIKE TO HELP OUT PLEASE MAKE A ISSUE AND I WILL ADD YOU.
