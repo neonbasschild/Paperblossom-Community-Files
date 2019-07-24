@@ -1,6 +1,68 @@
-"Battle in the Mind","As two masters of any martial art square off before a duel, each seeks to predict the other’s angle of attack and strategy, and the ways their predictions might be foiled by the opponent’s.%0AActivation: When you make an Initiative check for a duel using your Void Ring, you may spend (OP) in the following way:%0A%0AVoid (OP)(OP): You name two rings, then your opponent must name one of those two rings. When your opponent selects their stance during their first turn of the duel, they cannot select the ring they named as their stance. Void (OP)+: Choose a technique category. Learn one of your opponent’s known techniques of that category (chosen by the opponent) per (OP) spent this way.","Rank 3"
-"Breath of Wind Style","A swift strike to the solar plexus or throat can leave the target reeling; an experienced bushi can steal the breath from their foe with a quick jab even while executing another attack.%0AActivation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Air) check, you may spend (OP) in the following way:%0A%0AAir (OP)+: One target of your action must resist with a TN 3 Fitness check (Earth 4, Fire 1) or suffer the Disoriented condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (OP) spent this way.","Rank 4"
-"Crashing Wave Style","he wave washes over the stone, wearing it away, and so the bushi’s weapon passes across their foe’s flesh, leaving behind a bloody gash or slice that is sure to slow their enemy even if the hit is not fatal.%0AActivation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Water) check, you may spend (OP) in the following way:%0A%0AWater (OP)+: One target of your action must resist with a TN 3 Fitness check (Earth 1, Fire 4) or suffer the Bleeding condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (OP) spent this way.","Rank 4"
-"Crescent Moon Style","Striking first is valuable, but so is surviving. To defend without sacrificing offense, a bushi must be ready to retaliate swiftly after blocking or evading. With a quick shift, the bushi switches from defense to bring down their full force upon their enemy.%0A%0AActivation: When you perform Guard action (see page 264), you may spend (OP) in the following way:%0A%0A(OP): After a character at range 1–2 performs an Attack action targeting you or another character you are guarding, you may perform a Strike action with one readied Martial Arts [Melee or Unarmed] weapon targeting that character (if they are within your weapon’s range). This effect persists until the start of your next turn, or until you perform a Strike action this way.","Rank 2"
-"Disappearing World Style","Seeing nothing but their enemy, the bushi surges forward in a flurry of strikes, seeking to land a hit to the eyes, temple, or other vulnerable area rapidly after their initial attack. This stunning blow can leave the enemy staggered, giving the bushi a chance to finish the battle with their next attack.%0AActivation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Fire) check, you may spend (OP) in the following way:%0AFire (OP)+: One target of your action must resist with a TN 3 Fitness check (Air 4, Water 1) or suffer the Dazed condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (OP) spent this way.","Rank4"
-"Flowing Water Strike","A skilled warrior is not restricted by the optimal range of their weapon, and can open or close gaps to compensate for positional disadvantages.%0AActivation: As an Attack and Movement action using a readied weapon, you may make a TN 3 Martial Arts (Water) check using the appropriate skill for that readied weapon, targeting one character at range 0–2 (regardless of the weapon’s usual range restrictions). Effects: If you succeed, the target suffers physical damage equal to your Water Ring and suffers the Bleeding condition. The target must resist with a TN 4 Fitness check (Earth 2, Fire 5); if they fail, increase the physical damage they suffer by your weapon’s base damage.%0ANew Opportunities%0AWater (OP): Remove the Dazed, Disoriented, Immobilized, or Prone condition from yourself.","Rank 3"
+Battle in the Mind,"As two masters of any martial art square off before a duel, each seeks to predict the other’s angle of attack and strategy, and the ways their predictions might be foiled by the opponent’s.
+Activation: When you make an Initiative check for a duel using your Void Ring, you may spend (OP) in the following way:
+
+Void (OP)(OP): You name two rings, then your opponent must name one of those two rings. When your opponent selects their stance during their first turn of the duel, they cannot select the ring they named as their stance. Void (OP)+: Choose a technique category. Learn one of your opponent’s known techniques of that category (chosen by the opponent) per (OP) spent this way.",Rank 3
+Breath of Wind Style,"A swift strike to the solar plexus or throat can leave the target reeling; an experienced bushi can steal the breath from their foe with a quick jab even while executing another attack.
+Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Air) check, you may spend (OP) in the following way:
+
+Air (OP)+: One target of your action must resist with a TN 3 Fitness check (Earth 4, Fire 1) or suffer the Disoriented condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (OP) spent this way.",Rank 4
+Crashing Wave Style,"he wave washes over the stone, wearing it away, and so the bushi’s weapon passes across their foe’s flesh, leaving behind a bloody gash or slice that is sure to slow their enemy even if the hit is not fatal.
+Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Water) check, you may spend (OP) in the following way:
+
+Water (OP)+: One target of your action must resist with a TN 3 Fitness check (Earth 1, Fire 4) or suffer the Bleeding condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (OP) spent this way.",Rank 4
+Crescent Moon Style,"Striking first is valuable, but so is surviving. To defend without sacrificing offense, a bushi must be ready to retaliate swiftly after blocking or evading. With a quick shift, the bushi switches from defense to bring down their full force upon their enemy.
+
+Activation: When you perform Guard action (see page 264), you may spend (OP) in the following way:
+
+(OP): After a character at range 1–2 performs an Attack action targeting you or another character you are guarding, you may perform a Strike action with one readied Martial Arts [Melee or Unarmed] weapon targeting that character (if they are within your weapon’s range). This effect persists until the start of your next turn, or until you perform a Strike action this way.",Rank 2
+Crimson Leaves Strike,"Sweeping their blade down in a sudden arc, the bushi lands a blow atop the enemy’s weapon, scattering it from their hand like falling leaves.
+
+Activation: As an Attack action using a readied weapon, you may make a TN 4 Martial Arts (Earth) check with appropriate skill for that weapon, targeting one character within the weapon’s range.
+
+Effects: If you succeed, your target suffers physical damage equal to your Earth Ring, plus additional damage equal to your bonus successes. Choose one of your target’s readied weapons; the target must resist with a TN 4 Fitness check (Air 2, Water 5) or lose con- trol of the chosen weapon, which travels 3 range bands in a direction of your choice.
+New Opportunities
+
+Earth (OP): If you disarm your opponent, you may take control of their weapon instead of knocking it away.",Rank 3
+Disappearing World Style,"Seeing nothing but their enemy, the bushi surges forward in a flurry of strikes, seeking to land a hit to the eyes, temple, or other vulnerable area rapidly after their initial attack. This stunning blow can leave the enemy staggered, giving the bushi a chance to finish the battle with their next attack.
+
+Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Fire) check, you may spend (OP) in the following way:
+
+Fire (OP)+: One target of your action must resist with a TN 3 Fitness check (Air 4, Water 1) or suffer the Dazed condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (OP) spent this way.",Rank 4
+Flowing Water Strike,"A skilled warrior is not restricted by the optimal range of their weapon, and can open or close gaps to compensate for positional disadvantages.
+
+Activation: As an Attack and Movement action using a readied weapon, you may make a TN 3 Martial Arts (Water) check using the appropriate skill for that readied weapon, targeting one character at range 0–2 (regardless of the weapon’s usual range restrictions). 
+
+Effects: If you succeed, the target suffers physical damage equal to your Water Ring and suffers the Bleeding condition. The target must resist with a TN 4 Fitness check (Earth 2, Fire 5); if they fail, increase the physical damage they suffer by your weapon’s base damage.
+
+New Opportunities
+Water (OP): Remove the Dazed, Disoriented, Immobi- lized, or Prone condition from yourself.",Rank 3
+Heartpiercing Strike,"Battle is the art of killing, and woe betide any warrior who forgets it. With a roar, the bushi launches forward, stabbing out with their weapon to fatally impale their enemy. Even if the strike does not slay the foe, it is likely to weaken them significantly.
+
+Activation: As an Attack and Movement action using a readied weapon, you may make a TN 4 Martial Arts (Fire) check using the appropriate skill for that weap- on, targeting one character within the weapon’s range. 
+
+Effects: If you succeed, your target suffers a critical strike with severity equal to your weapon’s deadliness plus your bonus successes. The TN of the Fitness check to resist this critical strike is 3 (Air 4, Water 1) instead of the normal TN.
+If you fail, you suffer the Disoriented condition.
+
+New Opportunities
+Fire (OP): Before resolving the effect, move up to 1 range band toward your target.",Rank 3
+Iron in the Mountains Style,"The bushi strikes with crushing force, breaking their enemy’s footing and knocking them to the ground with an overwhelming blow or sweeping their stance out from underneath them with a well-placed kick.
+
+Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Earth) check, you may spend (OP) in the following way:
+
+Earth (OP)+: One target of your action must resist with a TN 3 Fitness check (Air 1, Water 4) or suffer the Prone condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (OP) spent this way.",Rank 4
+Lord Hida’s Grip,"The Kami Hida, patron of the Crab Clan, was a legendary slayer of monsters. He beheaded the massive demon that once menaced the rosemarble palace, and ripped out one skull of the two-headed Kabuto no Oni and crushed the other head with it. However, Hida was no mere brute: he was cunning, killing monsters by exploiting their weaknesses. Warriors of the Crab Clan train in similar techniques. They turn their foes' great weight against them by pinning or strategically damaging specific body parts.
+
+Activation: As an Attack action, you may make a Fitness (Void) check targeting one creature of silhouette 3 or larger at range 0–1. The TN of the check is equal to the silhouette of the target (to a minimum of 1). Effects: If you succeed, your target suffers the Immo- bilized condition.
+
+If you succeed, you count as granting assistance (see page 26) to all characters who perform Attack actions against your target. This effect persists until the beginning of your next turn.
+
+New Opportunities
+Void (OP): Your target must resist with a Fitness check or suffer physical damage equal to its silhouette, ignoring its resistance, and the Prone condition. The TN of this check is equal to your school rank.",(Crab) Rank 2
+Lord Shiba’s Valor,"Once, in the Shadowlands, the Kami Shiba stood alone between a vast horde of its foul denizens and the last of the Seven Thunders after their victory against Fu Leng. Drawing the legendary sword Ofushikai, Shiba cut his way through the host to the First Oni. Legends say that their blades flashed for a hundred days, shattering mountains around them and cutting great rifts across the ground. In the end, each slew the other, but Shiba fell with his oath to protect unbroken.
+
+Activation: Once per game session, as a Support action using one readied weapon, you may make a TN 2 Tactics (Void) check targeting any number of friendly characters in range of your weapon.
+
+Effects: If you succeed, other characters cannot select your targets as the targets of their Attack or Scheme actions if they could select you instead. If an action has multiple targets, you must be the first target chosen. This effect persists for a number of rounds equal to your school rank.
+
+New Opportunities
+Void (OP): If you succeed, increase the TN of Attack and Scheme checks targeting you by 1. This effect persists until the end of your next turn.",(Phoenix) Rank 2
