@@ -13,6 +13,8 @@ CORE = Core Book
 
 
 (OP) = Opportunities
-
+(RNG) = Ring Dice
+(SKL) = Skill Dice
+(STR) = STRIFE
 
 IF YOU WOULD LIKE TO HELP OUT PLEASE MAKE A ISSUE AND I WILL ADD YOU.
