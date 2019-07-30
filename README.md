@@ -11,10 +11,11 @@ Please when working on files use the branch meant for that book.
 
 CORE = Core Book
 
-
-(OP) = Opportunities
+Dice Symbols : (OP) = Opportunities
 (RNG) = Ring Dice
 (SKL) = Skill Dice
 (STR) = STRIFE
+(Suc) = Succes
+(EXSuc) = Exploding Succes
 
 IF YOU WOULD LIKE TO HELP OUT PLEASE MAKE A ISSUE AND I WILL ADD YOU.
